@@ -1,0 +1,42 @@
+body{
+	font-family: 'Libre Franklin', sans-serif;
+	background-color: #F2F4F3;
+	color: #0A0908;
+}
+
+.navbar-default {
+    background-color: #241623;
+    border-color: #241623;
+}
+
+.navbar-default .navbar-brand {
+    color:#D3B4A2;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #F2F4F3;
+}
+
+.col-sm-9 h5{
+	color:#969A97;
+}
+
+.col-sm-9 h1{
+	color:#D3B4A2;
+}
+
+.subt h4{
+	color:#D3B4A2;
+}
+
+a {
+
+	color:#241623;
+}
+
+a:hover{
+	
+	color:#D3B4A2;
+	text-decoration: none;
+}
+
