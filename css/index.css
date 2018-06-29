@@ -6,8 +6,14 @@ body{
 .navbar {
     position: relative;
     min-height: 50px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     border: 1px solid transparent;
+
+}
+
+#jumb-nav{
+    margin-bottom: 0px;
+    border-radius: 0;
 }
 
 .jumbotron {
