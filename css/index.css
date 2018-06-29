@@ -3,6 +3,28 @@ body{
 	background-color: #F2F4F3;
 	color: #0A0908;
 }
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+
+.jumbotron {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.jumbotron .container{
+	padding-right: 0px;
+    padding-left: 0px;
+    width:100%;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Libre Franklin', sans-serif;
+    color: #241623;
+}
 
 .navbar-default {
     background-color: #241623;
@@ -19,14 +41,29 @@ body{
 
 .col-sm-9 h5{
 	color:#969A97;
+	font-family: 'Libre Franklin', sans-serif;
 }
 
 .col-sm-9 h1{
 	color:#D3B4A2;
+	font-family: 'Libre Franklin', sans-serif;
+}
+.col-sm-9 h4{
+	color: #D3B4A2;
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+#big-top-text{
+	font-size: 18px;
+}
+
+.undertone{
+	color:#969A97 
 }
 
 .subt h4{
 	color:#D3B4A2;
+	font-family: 'Libre Franklin', sans-serif;
 }
 
 a {
